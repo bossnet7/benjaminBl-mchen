@@ -1,0 +1,17 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "webcrawler",
+  "main": "app.js",
+  "dependencies": {
+    "chrome-launcher": "^0.8.1"
+  },
+  "devDependencies": {
+    "chrome-remote-interface": "^0.25.3"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Jochen Meier",
+  "license": "ISC"
+}
